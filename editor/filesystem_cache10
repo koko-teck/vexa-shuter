@@ -1,0 +1,87 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1791409090
+ART_DIRECTION.md::TextFile::-1::1791407791::0::1::::<><><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1791409076::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::772432994343697871::1791408641::1791408677::1::::<><><>0<>0<>b57a6d07f5a3c94b44609ec8635613cc<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1791410857::0::1::::<><><>0<>0<><>::
+::res://addons/::1791408649
+::res://assets/::1791408649
+::res://assets/audio/::1791408649
+::res://assets/buildings/::1791408649
+::res://assets/characters/::1791408649
+::res://assets/environment/::1791408649
+::res://assets/materials/::1791408649
+::res://assets/props/::1791408649
+::res://assets/textures/::1791408649
+::res://assets/ui/::1791408649
+::res://assets/vfx/::1791408649
+::res://assets/weapons/::1791408649
+::res://build/::1791409090
+::res://build/windows/::1791409849
+::res://imagenes-de-referencia-/::1791408678
+Gemini_Generated_Image_20tw2s20tw2s20tw.jpg::CompressedTexture2D::5666441166618831462::1791384672::1791408673::1::::<><><>0<>0<>204802e256fb1c4f9ef98fb15c85acd0<>res://.godot/imported/Gemini_Generated_Image_20tw2s20tw2s20tw.jpg-87634045bc1992827da2287aa976bbaf.ctex::
+LOBY.png::CompressedTexture2D::7497412753534987543::1791406105::1791408672::1::::<><><>0<>0<>b81651c201864dcef882419978c43ba6<>res://.godot/imported/LOBY.png-60bc00ca18c5c39a89cd5ffc5f039bf5.ctex::
+Ruinas del desierto al atardecer.png::CompressedTexture2D::919312788814520342::1791379843::1791408673::1::::<><><>0<>0<>cf73985d8c7ab1e10dd534e585e2ed03<>res://.godot/imported/Ruinas del desierto al atardecer.png-e50c4644f48ded7f8a52b0a1315042d5.ctex::
+WhatsApp Image 2026-10-07 at 19.41.22 (1).jpeg::CompressedTexture2D::264668943812456540::1791377332::1791408674::1::::<><><>0<>0<>3253320377d8c352fdaf1d154984bba0<>res://.godot/imported/WhatsApp Image 2026-10-07 at 19.41.22 (1).jpeg-9aeed96d9033496631e2c621ff76b490.ctex::
+WhatsApp Image 2026-10-07 at 19.41.22 (2).jpeg::CompressedTexture2D::867980370920451457::1791377332::1791408674::1::::<><><>0<>0<>e5ce9fd5efb3a4a34c7967f87961950e<>res://.godot/imported/WhatsApp Image 2026-10-07 at 19.41.22 (2).jpeg-0705807729d99e9b6adca500ef5a4ac7.ctex::
+WhatsApp Image 2026-10-07 at 19.41.22 (3).jpeg::CompressedTexture2D::4738835935943802565::1791377332::1791408675::1::::<><><>0<>0<>a77a0d4f914a9b0640204ef05d5b8f49<>res://.godot/imported/WhatsApp Image 2026-10-07 at 19.41.22 (3).jpeg-b43240cdc86546b148642814abfd3d3d.ctex::
+WhatsApp Image 2026-10-07 at 19.41.22 (4).jpeg::CompressedTexture2D::2527771860024218651::1791377332::1791408675::1::::<><><>0<>0<>b30a64c2229d18cb25deb6164a13d85c<>res://.godot/imported/WhatsApp Image 2026-10-07 at 19.41.22 (4).jpeg-554558e4addd39f632be95c66814be7d.ctex::
+WhatsApp Image 2026-10-07 at 19.41.22.jpeg::CompressedTexture2D::3630447232188001223::1791377332::1791408676::1::::<><><>0<>0<>124c120c273d9a7da106a769dd30d46b<>res://.godot/imported/WhatsApp Image 2026-10-07 at 19.41.22.jpeg-7b7c71bfa6e18d539bc0ce18bf579d41.ctex::
+WhatsApp Image 2026-10-07 at 19.43.14.jpeg::CompressedTexture2D::3151820458506873320::1791377338::1791408677::1::::<><><>0<>0<>891720eb89b9944a19cfe06f8ed17624<>res://.godot/imported/WhatsApp Image 2026-10-07 at 19.43.14.jpeg-c69a7126363b1729ded27ef0fb8f744e.ctex::
+WhatsApp Image 2026-10-07 at 19.47.48 (1).jpeg::CompressedTexture2D::3592021283954853542::1791377340::1791408677::1::::<><><>0<>0<>66a2be204a92dedd404de62f42458d17<>res://.godot/imported/WhatsApp Image 2026-10-07 at 19.47.48 (1).jpeg-20049ac1b3b8dd855bac9fa0e2174da1.ctex::
+WhatsApp Image 2026-10-07 at 19.47.48.jpeg::CompressedTexture2D::4696572287994625460::1791377340::1791408678::1::::<><><>0<>0<>df1e2aa39e612d89ca9e9a6c2a8a0201<>res://.godot/imported/WhatsApp Image 2026-10-07 at 19.47.48.jpeg-5e16884aaa077268bd5d9879e9c9a2e2.ctex::
+::res://resources/::1791408649
+::res://resources/loot/::1791408649
+::res://resources/player/::1791408649
+::res://resources/weapons/::1791408649
+::res://scenes/::1791408649
+main.tscn::PackedScene::3347786966759763::1791408633::0::1::::<><><>0<>0<><>::res://scripts/core/main.gd
+::res://scenes/ai/::1791408649
+::res://scenes/audio/::1791408649
+::res://scenes/gameplay/::1791408649
+::res://scenes/hud/::1791408649
+::res://scenes/inventory/::1791408649
+::res://scenes/loot/::1791408649
+::res://scenes/maps/::1791408649
+::res://scenes/menus/::1791408649
+::res://scenes/player/::1791408649
+::res://scenes/save/::1791408649
+::res://scenes/settings/::1791408649
+::res://scenes/ui/::1791408649
+::res://scenes/weapons/::1791408649
+::res://scripts/::1791408649
+::res://scripts/ai/::1791409892
+bot_state.gd::GDScript::5892626349534774493::1791409751::0::1::::BotState<>RefCounted<><>0<>0<><>::
+::res://scripts/audio/::1791409892
+audio_config.gd::GDScript::5073954160269773226::1791409658::0::1::::AudioConfig<>Resource<><>0<>0<><>::
+::res://scripts/core/::1791410871
+actor.gd::GDScript::7545886888260756747::1791409633::0::1::::Actor<>CharacterBody3D<><>0<>0<><>::
+game.gd::GDScript::1228427131735063838::1791409879::0::1::::<>Node<><>0<>0<><>::
+game_events.gd::GDScript::462122448155451741::1791409908::0::1::::<>Node<><>0<>0<><>::
+game_mode.gd::GDScript::6661719455593243762::1791409633::0::1::::GameMode<>Node<><>0<>0<><>::
+game_modes.gd::GDScript::2014154096445602528::1791409687::0::1::::GameModes<>RefCounted<><>0<>0<><>::
+main.gd::GDScript::3430216622254911162::1791409827::0::1::::<>Node3D<><>0<>0<><>::
+session.gd::GDScript::8859094945199313884::1791409773::0::1::::Session<>Node<><>0<>0<><>::
+::res://scripts/hud/::1791408649
+::res://scripts/inventory/::1791409892
+weapon_slots.gd::GDScript::4254960626965950455::1791409727::0::1::::WeaponSlots<>RefCounted<><>0<>0<><>::
+::res://scripts/loot/::1791409892
+loot_rarity.gd::GDScript::8208777041304917530::1791409728::0::1::::LootRarity<>RefCounted<><>0<>0<><>::
+::res://scripts/maps/::1791409892
+surface_type.gd::GDScript::1800354107821222659::1791409751::0::1::::SurfaceType<>RefCounted<><>0<>0<><>::
+::res://scripts/menus/::1791408649
+::res://scripts/networking/::1791409892
+network_session.gd::GDScript::8551471063890456227::1791409697::0::1::::NetworkSession<>Node<><>0<>0<><>::
+::res://scripts/optimization/::1791409892
+object_pool.gd::GDScript::4436982708353130045::1791409697::0::1::::ObjectPool<>RefCounted<><>0<>0<><>::
+::res://scripts/player/::1791409892
+player_config.gd::GDScript::4479052149941785180::1791409657::0::1::::PlayerConfig<>Resource<><>0<>0<><>::
+::res://scripts/save/::1791409892
+save_keys.gd::GDScript::8799585199504568035::1791409761::0::1::::SaveKeys<>RefCounted<><>0<>0<><>::
+::res://scripts/settings/::1791409892
+graphics_config.gd::GDScript::1529830863257782067::1791409687::0::1::::GraphicsConfig<>Resource<><>0<>0<><>::
+::res://scripts/ui/::1791409892
+ui_layers.gd::GDScript::5121542921095740066::1791409773::0::1::::UILayers<>RefCounted<><>0<>0<><>::
+::res://scripts/weapons/::1791409892
+weapon_data.gd::GDScript::4753682483150802276::1791409644::0::1::::WeaponData<>Resource<><>0<>0<><>::
+::res://tools/::1791408557
