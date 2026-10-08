@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges">
+  <!-- VEXA icon. Voxel chevron on sandstone, per ART_DIRECTION.md palette. -->
+  <!-- No pure black / no pure white. Warm desert tones only. -->
+  <rect width="128" height="128" fill="#C2B280"/>
+  <!-- sandstone block variations -->
+  <rect x="0"   y="0"  width="32" height="32" fill="#C9B596"/>
+  <rect x="64"  y="0"  width="32" height="32" fill="#C9B596"/>
+  <rect x="32"  y="64" width="32" height="32" fill="#C9B596"/>
+  <rect x="96"  y="32" width="32" height="32" fill="#C9B596"/>
+  <!-- folded V chevron (blocky, stepped) -->
+  <rect x="32" y="28" width="16" height="16" fill="#8A6A46"/>
+  <rect x="80" y="28" width="16" height="16" fill="#8A6A46"/>
+  <rect x="40" y="44" width="16" height="16" fill="#8A6A46"/>
+  <rect x="72" y="44" width="16" height="16" fill="#8A6A46"/>
+  <rect x="48" y="60" width="16" height="16" fill="#8A6A46"/>
+  <rect x="64" y="60" width="16" height="16" fill="#8A6A46"/>
+  <rect x="56" y="76" width="16" height="16" fill="#8A6A46"/>
+  <!-- base plinth -->
+  <rect x="24" y="96" width="80" height="8"  fill="#6E5C40"/>
+</svg>
